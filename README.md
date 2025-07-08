@@ -28,7 +28,7 @@ This project is perfect for showcasing basic web development skills or creating 
 ## 🧑‍💻 Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/iamrajarajanr)
+[Rajarajan](https://github.com/iamrajarajanr)
 
 ## 🚀 How to Use
 
