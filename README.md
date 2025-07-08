@@ -14,6 +14,13 @@ A clean and modern landing page built using **HTML** and **CSS**, showcasing a f
 - Image background integration
 - Built with only HTML & CSS (no JavaScript)
 
+## 📁 Folder Structure
+
+📦 project-root/  
+├── index.html  
+├── style.css  
+└── ACapture.PNG
+
 ## 💡 About the Project
 
 > "We're a group of devs & designers who will help our dream come true."
@@ -28,16 +35,15 @@ This project is perfect for showcasing basic web development skills or creating 
 ## 🧑‍💻 Author
 
 **Your Name**  
-[Rajarajan](https://github.com/iamrajarajanr)
+[Rajarajan](https://github.com/iamrajarjanr)
 
 ## 🚀 How to Use
 
-1. Clone this repository:
-git clone https://github.com/iamrajarajanr/Blog
+1. Clone this repository:  
+   `git clone https://github.com/iamrajarajanr/Blog`
 
 2. Open `index.html` in your browser to view the landing page.
 
+---
 
 📬 **Feedback is welcome!** Star ⭐ the repo if you found it helpful!
-
-
